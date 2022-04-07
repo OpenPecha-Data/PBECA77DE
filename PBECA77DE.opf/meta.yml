@@ -1,0 +1,29 @@
+id: PBECA77DE
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30012
+  instance_id: http://purl.bdrc.io/resource/IE30012
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཟློས་གར་དང་བཟོ་རིག
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P888
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9de66f85cddf49c3b78de40daaa5e6f6:
+      title: པོད ༡་ཟློས་གར་དང་བཟོ་རིག
+      volume_number: 1
+      base_file: UT30012_5742_0000.txt
+      reference: http://purl.bdrc.io/resource/VLAA0954AFC370AAC7
+      image_group: '5742'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW30012
+  - http://purl.bdrc.io/resource/W30012
+  ocr_software: Namsel
+created_at: '2021-12-22T11:14:32.019343'
+last_modified_at: '2021-12-22T11:14:32.019350'
